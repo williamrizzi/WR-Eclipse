@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/rizzi.w26/Documents/Unreal Projects/WR-Eclipse/Eclipse/Content/BP_Platform.uasset",
+				"C:/Users/rizzi.w26/Documents/Unreal Projects/WR-Eclipse/Eclipse/Content/__ExternalActors__/TopDown/Lvl_TopDown/7/P4/7RDTA4HRRYE8SD0Y9F4U3I.uasset",
+				"C:/Users/rizzi.w26/Documents/Unreal Projects/WR-Eclipse/Eclipse/Content/M_Platform_Red.uasset",
+				"C:/Users/rizzi.w26/Documents/Unreal Projects/WR-Eclipse/Eclipse/Content/M_Platform_Green.uasset",
+				"C:/Users/rizzi.w26/Documents/Unreal Projects/WR-Eclipse/Eclipse/Content/__ExternalActors__/TopDown/Lvl_TopDown/3/QY/M0W20D6O0HT4TEF5HLE3F7.uasset",
+				"C:/Users/rizzi.w26/Documents/Unreal Projects/WR-Eclipse/Eclipse/Content/__ExternalActors__/TopDown/Lvl_TopDown/B/YV/984SWMHH8SF2T9KBGX9SNB.uasset",
+				"C:/Users/rizzi.w26/Documents/Unreal Projects/WR-Eclipse/Eclipse/Content/__ExternalActors__/TopDown/Lvl_TopDown/D/R0/G67U1UT5FSWY4WZ2D91G0Y.uasset",
+				"C:/Users/rizzi.w26/Documents/Unreal Projects/WR-Eclipse/Eclipse/Content/__ExternalActors__/TopDown/Lvl_TopDown/1/MH/HL58D8WCPP6SCO4UAPHYWC.uasset",
+				"C:/Users/rizzi.w26/Documents/Unreal Projects/WR-Eclipse/Eclipse/Content/__ExternalActors__/TopDown/Lvl_TopDown/0/0R/IT2BT0W7XW9I3LO0PD7D8O.uasset",
+				"C:/Users/rizzi.w26/Documents/Unreal Projects/WR-Eclipse/Eclipse/Content/__ExternalActors__/TopDown/Lvl_TopDown/6/HL/15WIW32NRXQ1WKXX37A4ZR.uasset",
+				"C:/Users/rizzi.w26/Documents/Unreal Projects/WR-Eclipse/Eclipse/Content/__ExternalActors__/TopDown/Lvl_TopDown/C/3L/1GK8E8RUHR197ZNB7N6H70.uasset",
+				"C:/Users/rizzi.w26/Documents/Unreal Projects/WR-Eclipse/Eclipse/Content/__ExternalActors__/TopDown/Lvl_TopDown/E/G5/VWZPOXL5LGT5QVIKFZBS7C.uasset",
+				"C:/Users/rizzi.w26/Documents/Unreal Projects/WR-Eclipse/Eclipse/Content/__ExternalActors__/TopDown/Lvl_TopDown/A/ZK/TM37IAZQ4WP92W67WNI200.uasset"
+			]
+		}
+	]
+}

@@ -1,10 +1,8 @@
-# Puzzle Game
+# Lights Out Game
 
 ---
 
 ## Descrição
-
-Breve explicação sobre o objetivo do projeto. Por exemplo:
 
 > Este jogo foi desenvolvido como parte da disciplina Programação II e Redes Aplicadas com o objetivo de conectar ao menos dois jogadores localmente para resolução de puzzle em client. O jogador controla um personagem que interage com plataformas para realizar o puzzle.
 
